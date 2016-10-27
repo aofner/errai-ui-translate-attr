@@ -1,0 +1,7 @@
+{
+  "TemplatedWidget.welcome": "From i18n file: Welcome to the errai-ui demo.",
+  "TemplatedWidget.text-placeholder": "From i18n file: Enter your name",
+  "TemplatedWidget.link": "From i18n file: Powered by Errai Framework",
+  "TemplatedWidget.link-title": "From i18n file: Visit our Website",
+  "TemplatedWidget.button": "From i18n file: Submit"
+}
