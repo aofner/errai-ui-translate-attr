@@ -5,6 +5,7 @@ import javax.inject.Inject;
 
 import org.jboss.errai.ui.nav.client.local.DefaultPage;
 import org.jboss.errai.ui.nav.client.local.Page;
+import org.jboss.errai.ui.shared.api.annotations.Bundle;
 import org.jboss.errai.ui.shared.api.annotations.DataField;
 import org.jboss.errai.ui.shared.api.annotations.EventHandler;
 import org.jboss.errai.ui.shared.api.annotations.Templated;
@@ -17,6 +18,7 @@ import com.google.gwt.user.client.ui.TextBox;
 
 @Templated
 @Page(role = DefaultPage.class)
+@Bundle("i18n.json")
 public class TemplatedWidget extends Composite {
 
   @Inject @DataField 
