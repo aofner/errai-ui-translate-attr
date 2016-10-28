@@ -1,4 +1,4 @@
-errai-ui 118n demo
+errai-ui i18n demo
 ==================
 
 Minimal templated widget [1] to reproduce translation bug (html attributes)
